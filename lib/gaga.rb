@@ -1,5 +1,5 @@
 require 'yaml'
-require 'grit'
+require 'rugged'
 require 'gaga/version'
 
 class Gaga
